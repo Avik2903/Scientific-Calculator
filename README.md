@@ -1,3 +1,5 @@
+# Scientific Calculator
+
 Functions provided by this calculator are as follows:-
 1. Simple Addition
 2. Simple subtraction
