@@ -17,7 +17,6 @@ cout<<"4: Addition\t\t"<<"10: Inverse of Sin"<<endl;
 cout<<"5: Exponent\t\t"<<"11: Inverse of Cos"<<endl; 
 cout<<"6: Square root\t\t"<<"12: Inverse of Tan"<<endl; 
 cout<<"Enter the function that you want to perform : "; 
- 
 cin>>c; 
 PI=3.14159265; 
 switch(c) 
